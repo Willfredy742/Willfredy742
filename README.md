@@ -16,7 +16,7 @@
 ### 👨‍💻 Sobre mí
 
 * 🎯 Actualmente tengo **21 años** y me enfoco en el desarrollo web moderno.
-* ⚡ Mis pilares de desarrollo: **HTML5**, **CSS3** y **JavaScript (ES6+)**.
+* ⚡ Mis pilares de desarrollo: **HTML5**, **CSS** y **JavaScript.
 * 🧼 Firme defensor del **Clean Code**: busco siempre la legibilidad, el mantenimiento y la optimización en cada línea de código.
 
 ---
